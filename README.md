@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Arun
+## Hi, I’m Arun
 - **📚 High School Student**
 - **❤️ Telegram Explorer**
 
