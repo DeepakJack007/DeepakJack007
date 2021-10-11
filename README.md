@@ -4,7 +4,7 @@
 
 # My Social Profiles
 <p align="center">
-<a href="https://t.me/Arun_TG"><img alt="Telegram" src="https://ibb.co/pQM4mhV/13f5d1eb692ec33b583cc3312439fe2f"/></a>
+<a href="https://t.me/Arun_TG"><img alt="Telegram" src="https://te.legra.ph/file/536cb41c34129d6237580.png"/></a>
 </p>
 
 ## Profile views counter
