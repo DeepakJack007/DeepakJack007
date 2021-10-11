@@ -2,7 +2,7 @@
 - **📚 High School Student**
 - **❤️ Telegram Explorer**
 
-# My Social Profiles
+# Contact
 <p align="center">
 <a href="https://t.me/Arun_TG"><img alt="Telegram" src="https://te.legra.ph/file/536cb41c34129d6237580.png"/></a>
 </p>
