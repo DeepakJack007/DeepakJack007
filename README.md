@@ -4,7 +4,7 @@
 
 # My Social Profiles
 <p align="center">
-<a href="https://t.me/Arun_TG"><img alt="Telegram" src="https://img.shields.io/badge/subinps-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/Arun_TG"><img alt="Telegram" src="https://ibb.co/pQM4mhV/13f5d1eb692ec33b583cc3312439fe2f"/></a>
 </p>
 
 ## Profile views counter
