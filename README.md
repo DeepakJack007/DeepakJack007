@@ -11,5 +11,5 @@
 
 # Contact
 <p align="center">
-<a href="https://t.me/Arun_TG"><img alt="Telegram" src="https://te.legra.ph/file/536cb41c34129d6237580.png"/></a>
+<a href="https://t.me/Arun_TG"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
