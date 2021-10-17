@@ -1,4 +1,7 @@
 ## Hi, I’m Arun
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+GitHub+Profile)](https://git.io/typing-svg)
+
 - **📚 High School Student**
 - **❤️ Telegram Explorer**
 
