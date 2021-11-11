@@ -6,10 +6,6 @@
 
 ## Profile views counter
 ![Visitor Count](https://profile-counter.glitch.me/{shukurenaibotcreate}/count.svg)
-## GitHub Status
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shukurenaibotcreate-TG&theme=highcontrast" align="center">
-</p>
 
 # Contact
 <p align="center">
