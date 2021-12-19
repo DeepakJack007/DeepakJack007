@@ -10,6 +10,9 @@
 # Contact
 <p align="center">
 <a href="https://t.me/shukurenai007"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DeepakJack007&show_icons=true&theme=tokyonight&locale=en" alt="DeepakJack007" /></p>
 
+**Stats:**  
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DeepakJack007&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakJack007&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true">
