@@ -1,4 +1,4 @@
-## Hi, I’m DeepakJack007
+## Hi, I’m DeepakJack
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+GitHub+Profile)](https://git.io/typing-svg)
 
