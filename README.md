@@ -1,15 +1,14 @@
-## Hi, I’m DeepakJack
+### Hi there 👋, I'm DeepakJack007!.
+
+<a href="https://telegram.me/DeepakJack007"><img align="center" src="https://telegra.ph//file/11f9775afdb5faf30a98b.jpg"/></a>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+GitHub+Profile)](https://git.io/typing-svg)
 
 - **❤️ Telegram Explorer**
 
 ## Profile views counter
-![Visitor Count](https://profile-counter.glitch.me/{shukurenaibotcreate}/count.svg)
-
-# Contact
-<p align="center">
-<a href="https://t.me/shukurenai007"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+![Visitor Count](https://profile-counter.glitch.me/{DeepakJack007}/count.svg)
 
 **Stats:**  
 
