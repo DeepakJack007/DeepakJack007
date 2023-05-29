@@ -1,6 +1,6 @@
 
-<a href="https://telegram.me/DeepakJack007"><img align="center" src="https://te.legra.ph/file/5be057e5a9e8fa17e7d87.jpg
-"/></a>
+<a href="https://telegram.me/DeepakJack007"><img align="center" src="https://te.legra.ph/file/5be057e5a9e8fa17e7d87.jpg"/></a>
+
 
 # Hi there 👋, I'm Deepak Jack
 
